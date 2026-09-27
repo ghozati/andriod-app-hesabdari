@@ -1,0 +1,6 @@
+{
+  "name": "ShopLedger",
+  "description": "Dual-ledger accounting application for commingled shop and personal funds, pending SMS inbox, settlement tracking, and project split accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

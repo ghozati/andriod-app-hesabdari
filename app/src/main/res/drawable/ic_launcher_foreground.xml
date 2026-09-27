@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Back ledger card (Shop Debt) -->
+    <path
+        android:fillColor="#2D3436"
+        android:pathData="M32,28 h40 c3.3,0 6,2.7 6,6 v38 c0,3.3 -2.7,6 -6,6 h-40 c-3.3,0 -6,-2.7 -6,-6 v-38 c0,-3.3 2.7,-6 6,-6 z" />
+    <path
+        android:fillColor="#FF7643"
+        android:pathData="M38,36 h28 v3 h-28 z M38,43 h20 v3 h-20 z" />
+
+    <!-- Front ledger card (Personal Bank) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,36 h40 c3.3,0 6,2.7 6,6 v38 c0,3.3 -2.7,6 -6,6 h-40 c-3.3,0 -6,-2.7 -6,-6 v-38 c0,-3.3 2.7,-6 6,-6 z" />
+    <path
+        android:fillColor="#00B48A"
+        android:pathData="M44,44 h28 v3.5 h-28 z M44,52 h20 v3.5 h-20 z M44,60 h14 v3.5 h-14 z" />
+
+    <!-- Orange floating coin badge with Persian/Universal currency T symbol -->
+    <path
+        android:fillColor="#FF7643"
+        android:pathData="M68,66 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+    <!-- Checkmark/currency accent on coin -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M64,66 L67,69 L73,63" />
+</vector>
